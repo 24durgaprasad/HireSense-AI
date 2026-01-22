@@ -11,7 +11,7 @@ function Layout({ children }) {
               <div className="logo-mark">
                 <Sparkles size={18} />
               </div>
-              <span className="logo-text">TalentAI</span>
+              <span className="logo-text">HireSense AI</span>
             </Link>
 
             <div className="header-badge">
@@ -28,7 +28,7 @@ function Layout({ children }) {
 
       <footer className="footer">
         <div className="container">
-          <p>© 2026 TalentAI · Semantic resume screening powered by AI</p>
+          <p>© 2026 HireSense AI · Semantic resume screening powered by AI</p>
         </div>
       </footer>
 
